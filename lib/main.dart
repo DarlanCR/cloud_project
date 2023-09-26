@@ -84,6 +84,7 @@ class _MyHomePageState extends State<MyHomePage> {
     // Lembre-se de tratar a resposta do servidor ou GitHub conforme necessário
 
     // Limpe os campos e a imagem após o envio
+
     _nameController.clear();
     _typeController.clear();
     _elementController.clear();
